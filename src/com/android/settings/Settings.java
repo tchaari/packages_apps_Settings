@@ -829,6 +829,7 @@ public class Settings extends PreferenceActivity
     public static class AccountSyncSettingsActivity extends Settings { /* empty */ }
     public static class AccountSyncSettingsInAddAccountActivity extends Settings { /* empty */ }
     public static class CryptKeeperSettingsActivity extends Settings { /* empty */ }
+    public static class QuickSettingsTilesActivity extends Settings { /* empty */ }
     public static class DeviceAdminSettingsActivity extends Settings { /* empty */ }
     public static class DataUsageSummaryActivity extends Settings { /* empty */ }
     public static class AdvancedWifiSettingsActivity extends Settings { /* empty */ }
